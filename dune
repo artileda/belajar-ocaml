@@ -1,0 +1,4 @@
+(executable
+  (name tadi_habis)
+  (public_name mlan)
+)
